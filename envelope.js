@@ -5,9 +5,9 @@ const closeBtn = document.getElementById('closeBtn');
 
 // Codeword messages
 const codewords = {
-    'Meen': 'สวัสดีมีน ยินดีที่ได้รู้จักนะ',
+    'meenlnwzaa': 'สวัสดีมีน ยินดีที่ได้รู้จักนะ',
     'noonlnwzaa': 'Hello, Noon',
-    'Vtode': 'Hello',
+    'vtodecho': 'Hello',
     'test': 'Jeje',
     'alicewonderland': 'You are a wonderful person and I hope you achieve great things!',
     'jaaneko': 'Your dedication and hard work have been truly inspiring!',
