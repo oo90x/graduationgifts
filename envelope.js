@@ -1,4 +1,4 @@
-const codeInput = document.getElementById('codeInput');
+codeword codeInput = document.getElementById('codeInput');
 const messageBox = document.getElementById('messageBox');
 const messageText = document.getElementById('messageText');
 const closeBtn = document.getElementById('closeBtn');
@@ -37,7 +37,7 @@ function checkCodeword() {
         showMessage(codewords[input]);
         codeInput.value = '';
     } else if (input) {
-        showMessage('Invalid codeword. Try again!');
+        showMessage('รอก่อน ๆๆๆ กำลังเขียนเฟรนชิพให้นะ ทักไอจีมาได้');
     }
 }
 
